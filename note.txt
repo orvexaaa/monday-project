@@ -1,0 +1,106 @@
+# PROJECT SUNDAY
+## Login Page — Design Notes
+
+### 1. Project Overview
+Project Name: Sunday  
+Project Type: Login Page  
+Theme: Modern, Clean, Gaming-Inspired  
+Technology: HTML5 & CSS3
+
+### 2. Color Palette
+
+Primary Color:
+- Cyan: #0891B2
+- Purple: #7C3AED
+
+Secondary Color:
+- White: #FFFFFF
+- Light Gray: #CCCCCC
+- Gray: #888888
+- Dark Gray: #555555
+- Black: #000000
+
+Background:
+- Linear Gradient: 135deg, #0891B2 to #7C3AED
+
+### 3. Logo
+Logo Symbol: 🎮  
+HTML Entity: `&#127918;`
+
+Logo Style:
+- Gaming-inspired
+- Centered alignment
+- Font size: 70px
+- Bottom margin: 8px
+
+### 4. Typography
+Font Family: Segoe UI, Arial, sans-serif
+
+Heading:
+- Text: "Selamat Datang"
+- Font size: 26px
+- Color: #000000
+
+Subtitle:
+- Text: "Silahkan masuk ke akun anda"
+- Font size: 14px
+- Color: #888888
+
+### 5. Login Box
+- Background: #FFFFFF
+- Maximum width: 420px
+- Padding: 40px 32px
+- Border radius: 20px
+- Box shadow: 0 20px 40px rgba(0, 0, 0, 0.25)
+- Text alignment: Center
+
+### 6. Input Fields
+- Width: 100%
+- Padding: 12px 14px
+- Border: 1px solid #CCCCCC
+- Border radius: 10px
+- Font size: 14px
+
+Focus State:
+- Border color: #7C3AED
+- Purple glow effect
+
+### 7. Login Button
+- Width: 100%
+- Padding: 13px
+- Border radius: 10px
+- Background: Cyan-to-purple gradient
+- Text color: #FFFFFF
+- Hover effect: Slight upward movement and shadow
+
+### 8. Login Form Features
+- Username input
+- Password input
+- Remember Me checkbox
+- Login button
+- Feedback message area
+
+### 9. Feedback Colors
+Error Message:
+- Red
+
+Success Message:
+- Green
+
+### 10. Layout
+- Full viewport height
+- Flexbox centering
+- Centered login card
+- Responsive card width
+- Gradient background
+
+### 11. Future Improvements
+- Password visibility toggle
+- Form validation
+- Responsive mobile optimization
+- Login authentication
+- Loading state
+- Dark mode
+
+### 12. Project Goal
+Create a clean, modern, and user-friendly login interface with a distinctive cyan and purple gradient identity.
