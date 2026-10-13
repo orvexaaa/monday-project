@@ -1,4 +1,4 @@
-# 🎮 Monday — Login Page
+# 🎮 Simple Login Page
 
 A simple and modern login page built as part of my journey in learning web development.
 
